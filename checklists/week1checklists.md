@@ -11,7 +11,7 @@ Group tasks to be completed by the beginning of week 2
 | Kelly Hamilton | Psychology (analysis and research), Statistics, Machine Learning | Monday–Friday, 4 PM onwards | TBD |
 | Daniel Cao | ML engineering, Data Science | From 5:30 PM AEST onwards | TBD |
 | Swapnil Shinde (Team Leader) | Data Analysis, Machine Learning, Python, R, SQL, Tableau, Statistics, Reporting | Monday–Friday, 4 PM onwards | TBD |
-| Faiza Mumtaz | Mathematics and Statistics | TBD | TBD |
+| Faiza Mumtaz | ML Engineering, Data Science, Data Analysis, Python, R, SQL, Tableau, and Reporting |Monday–Friday, 4 PM onwards| TBD |
 - Schedule weekly group meetings with course conveyor
 - Establish teamwork software list (with proper justification, short description of tools chosen, and example(s) of use):
 - Project Management: GitHub (mandatory)
