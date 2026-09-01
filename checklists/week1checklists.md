@@ -1,9 +1,9 @@
 Group tasks to be completed by the beginning of week 2 
 
 - Elect a team leader
-  - **Swapnil Shinde has generously put his hand up**
+  - **Swapnil Shinde**
 - Define roles and responsibilities for each member of the team with proper justification
-  - **Kelly made an amazing doco to list our strengths and then decide, [link](https://unsw-my.sharepoint.com/:w:/g/personal/z5528970_ad_unsw_edu_au/IQC2QcwA12ejSYz7Vg_8jhzRAX36uPB6sUtNtENwu1b7vKM?wdExp=TEAMS-TREATMENT&web=1&isSPOFile=1&ovuser=3ff6cfa4-e715-48db-b8e1-0867b9f9fba3%2Cz5267347%40ad.unsw.edu.au&clickparams=eyJBcHBOYW1lIjoiVGVhbXMtV2ViIiwiQXBwVmVyc2lvbiI6IjE0MTUvMjYwODAyMDA2MjAifQ%3D%3D)**
+  - **Share point document of strengths, [link](https://unsw-my.sharepoint.com/:w:/g/personal/z5528970_ad_unsw_edu_au/IQC2QcwA12ejSYz7Vg_8jhzRAX36uPB6sUtNtENwu1b7vKM?wdExp=TEAMS-TREATMENT&web=1&isSPOFile=1&ovuser=3ff6cfa4-e715-48db-b8e1-0867b9f9fba3%2Cz5267347%40ad.unsw.edu.au&clickparams=eyJBcHBOYW1lIjoiVGVhbXMtV2ViIiwiQXBwVmVyc2lvbiI6IjE0MTUvMjYwODAyMDA2MjAifQ%3D%3D)**
  
 
 | Name | Background / Strengths | Availability | Role |
