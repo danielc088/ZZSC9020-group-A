@@ -1,4 +1,4 @@
-# Welcome to ZZSC9020 GitHub repository for group [GROUP-NAME]
+# Welcome to ZZSC9020 GitHub repository for group [GROUP A]
 
 This GitHub repository is the main point of access for students and lecturers of the ZZSC9020 capstone course. 
 
@@ -9,11 +9,12 @@ Complete the information below regarding your group.
 ## Group and project information
 
 ### Group members and zIDs
-- Member 1 (zID1) - Group leader
-- Member 2 (zID2) - role
-- Member 3 (zID3) - role
-- Member 4 (zID4) - role
-- Member 5 (zID5) - role
+- Swapnil Shinde (z5118116) - Team leader
+- Kelly Hamilton (z552890) - Role TBD
+- Daniel Cao (z5267347) - Role TBD
+- Faiza Mumtaz (z5657874) - Role TBD
+- Xavier Sun (z5647547) - Role TBD
+- Arman Hajisafi (z3542724) - Role TBD
 
 ### Brief project description
 
