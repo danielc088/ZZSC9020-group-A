@@ -10,11 +10,11 @@ Complete the information below regarding your group.
 
 ### Group members and zIDs
 - Swapnil Shinde (z5118116) - Team leader
-- Kelly Hamilton (z552890) - Role TBD
-- Daniel Cao (z5267347) - Role TBD
-- Faiza Mumtaz (z5657874) - Role TBD
-- Xavier Sun (z5647547) - Role TBD
-- Arman Hajisafi (z3542724) - Role TBD
+- Kelly Hamilton (z552890) - Generalist
+- Daniel Cao (z5267347) - Generalist + (Admin/Support)
+- Faiza Mumtaz (z5657874) - Generalist
+- Xavier Sun (z5647547) - Generalist
+- Arman Hajisafi (z3542724) - Generalist
 
 ### Brief project description
 
