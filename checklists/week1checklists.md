@@ -8,8 +8,8 @@
 - Elect a team leader
   - **Swapnil Shinde**
 - Define roles and responsibilities for each member of the team with proper justification
-  - Given everyone within the team has similar skills and would like the opportunity to work on areas that may interest them, we have decided to go with a generalist approach. Role will be through task allocation rather than strict roles.
-  - Daniel will additionally support with some admin tasks such as meeting minutes. 
+**  - Given everyone within the team has similar skills and would like the opportunity to work on areas that may interest them, we have decided to go with a generalist approach. Role will be through task allocation rather than strict roles.
+  - Daniel will additionally support with some admin tasks such as meeting minutes. **
 
 | Name | Background / Strengths | Availability | Role |
 |---|---|---|---|
