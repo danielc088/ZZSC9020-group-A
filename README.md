@@ -18,7 +18,7 @@ Complete the information below regarding your group.
 
 ### Brief project description
 
-Describe your project in one paragraph.
+Which forecasting models perform best for medium to long term electricity demand in New South Wales when evaluated across seasonal variation, temperature changes and differing demand levels? 
 
 ## Repository structure
 
