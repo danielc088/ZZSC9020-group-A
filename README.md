@@ -9,12 +9,12 @@ Complete the information below regarding your group.
 ## Group and project information
 
 ### Group members and zIDs
-- Swapnil Shinde (z5118116) - Generalist + Team leader
-- Kelly Hamilton (z552890) - Generalist
-- Daniel Cao (z5267347) - Generalist + Admin
-- Faiza Mumtaz (z5657874) - Generalist
-- Xavier Sun (z5647547) - Generalist
-- Arman Hajisafi (z3542724) - Generalist
+- Swapnil Shinde (z5118116) - Team Leader
+- Kelly Hamilton (z552890) - Data Science Researcher
+- Daniel Cao (z5267347) - Machine Learning Engineer
+- Faiza Mumtaz (z5657874) - Data Scientist
+- Xavier Sun (z5647547) - Product Manager
+- Arman Hajisafi (z3542724) - Data Engineer
 
 ### Brief project description
 
