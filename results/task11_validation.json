@@ -1,0 +1,126 @@
+{
+  "python": "3.12.14",
+  "dependencies": {
+    "pandas": "3.0.5",
+    "numpy": "2.5.3",
+    "holidays": "0.104",
+    "tzdata": "2026.3"
+  },
+  "config": {
+    "demand_timezone": "Etc/GMT-10",
+    "temperature_timezone": "Etc/GMT-10",
+    "calendar_timezone": "Australia/Sydney",
+    "temperature_tolerance_minutes": 30,
+    "climatology_window_days": 3,
+    "base_temperature_c": 18.0,
+    "daily_harmonics": 3,
+    "weekly_harmonics": 2,
+    "annual_harmonics": 3
+  },
+  "source_sha256": {
+    "nsw_cleaned.csv": "5afc3d36531cde57d21917d28475c9b2b9e7b37efeb43ed01ce43b1fc993df71",
+    "temperature_nsw.csv.zip": "7e5d3f74c1d7ddcfd1fa82481a50b8078f8ad7e336a14fcace1c4df1a206eda0"
+  },
+  "school_calendar_sha256": "0971d893833c376e01c07505c42348278c27c4e481b1e6d1cbde504738e7e19c",
+  "implementation_sha256": "96b444003e23b53fbd11d3641b6a8ebd3f82758a707354542bc97c943e40ee1c",
+  "timezone_status": "source-timezone assumptions require course-data confirmation",
+  "protocol": "task11-v2",
+  "feature_columns": [
+    "half_hour",
+    "hour",
+    "day_of_week",
+    "month",
+    "day_of_year",
+    "is_weekend",
+    "utc_offset_hours",
+    "is_public_holiday",
+    "is_school_holiday",
+    "trend_years",
+    "daily_sin_1",
+    "daily_cos_1",
+    "daily_sin_2",
+    "daily_cos_2",
+    "daily_sin_3",
+    "daily_cos_3",
+    "weekly_sin_1",
+    "weekly_cos_1",
+    "weekly_sin_2",
+    "weekly_cos_2",
+    "annual_sin_1",
+    "annual_cos_1",
+    "annual_sin_2",
+    "annual_cos_2",
+    "annual_sin_3",
+    "annual_cos_3",
+    "cooling_degrees_18c",
+    "heating_degrees_18c"
+  ],
+  "weather_modes_verified": [
+    "analogue",
+    "observed_diagnostic",
+    "climatology"
+  ],
+  "real_data_folds_verified_in_all_modes": [
+    {
+      "fold_id": "development_20160101",
+      "train_rows": 105168,
+      "forecast_rows": 17568,
+      "analogue_year": 2015
+    },
+    {
+      "fold_id": "development_20160401",
+      "train_rows": 109536,
+      "forecast_rows": 17520,
+      "analogue_year": 2015
+    },
+    {
+      "fold_id": "development_20160701",
+      "train_rows": 113904,
+      "forecast_rows": 17520,
+      "analogue_year": 2015
+    },
+    {
+      "fold_id": "development_20161001",
+      "train_rows": 118320,
+      "forecast_rows": 17520,
+      "analogue_year": 2015
+    },
+    {
+      "fold_id": "development_20170101",
+      "train_rows": 122736,
+      "forecast_rows": 17520,
+      "analogue_year": 2016
+    },
+    {
+      "fold_id": "development_20170401",
+      "train_rows": 127056,
+      "forecast_rows": 17520,
+      "analogue_year": 2016
+    },
+    {
+      "fold_id": "development_20170701",
+      "train_rows": 131424,
+      "forecast_rows": 17520,
+      "analogue_year": 2016
+    },
+    {
+      "fold_id": "development_20171001",
+      "train_rows": 135840,
+      "forecast_rows": 17520,
+      "analogue_year": 2016
+    },
+    {
+      "fold_id": "final_test_20190101",
+      "train_rows": 157776,
+      "forecast_rows": 17520,
+      "analogue_year": 2018
+    },
+    {
+      "fold_id": "final_test_20200101",
+      "train_rows": 175296,
+      "forecast_rows": 17568,
+      "analogue_year": 2019
+    }
+  ],
+  "models_trained": 0
+}
