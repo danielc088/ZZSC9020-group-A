@@ -1,0 +1,5 @@
+# Shared feature pipeline only; model dependencies belong to their owners.
+numpy>=1.26,<3
+pandas>=2.2,<4
+holidays==0.104
+tzdata>=2024.1
