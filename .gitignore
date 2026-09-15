@@ -1,0 +1,5 @@
+.venv-task11/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+data/NSW/task11_generated/
