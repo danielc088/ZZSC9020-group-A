@@ -1,2 +1,5 @@
-model,rmse,mae,mape_pct,R^2,Comments
+model,rmse,mae,mape_pct,r2,comments
 random_forest,1216.320913523045,985.2558874276748,13.36018410599362,,
+baseline_linear_regression,535.98912017501,380.21528784617965,4.743791637584499,0.8160912742816944,"
+Linear Regression on the 48 shared features achieves MAE 380 MW on the 2019 test year, ahead of the naive same-time-yesterday (466 MW) and Climatology Profile (605 MW) baselines, and was selected on the 2018 validation year where it also ranked the first. Features are day-before demand, temperature and radiation, public holiday and school term flags, and one-hot day, hour and month encodings. Excluded same-day weather and the AEMO forecast columns so that the model uses only information available a day ahead. Accuracy degrades in extreme heat (hottest 5%: MAE 710 MW) and at high demand (520 MW), with a 66 MW over-prediction bias relfecting the fall in average demand between the training years and test 2019.
+"
