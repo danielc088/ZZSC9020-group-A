@@ -1,14 +1,13 @@
 model,rmse,mae,mape_pct,r2,comments
-random_forest,493.6967783209122,322.4514120820744,3.927903268154292,0.8439689707979023,
-aemo_forecast_closest,64.29241067137875,47.71161130136987,0.5956884401924603,0.9973538783442838,
-aemo_forecast_12hr_prior,212.91369389390076,155.9452602739726,1.9218666283899968,0.970979988767794,
-aemo_forecast_dayprior,222.4607535563383,161.83098858447488,1.9883980439297608,0.9683191230406596,
 xgboost,470.54456500550754,311.17640021783143,3.791659639172313,0.858260169269114,
 lightgbm,463.9951386111268,307.403003724203,3.74458716611304,0.8621784126576358,
-prophet,469.383322393858,345.77700627861697,4.289859820478026,0.8433099124062081,
 baseline_linear_regression,535.98912017501,380.2152878461797,4.743791637584499,0.8160912742816944,"
 Linear Regression on the 48 shared features achieves MAE 380 MW on the 2019 test year, ahead of the naive same-time-yesterday (466 MW) and Climatology Profile (605 MW) baselines, and was selected on the 2018 validation year where it also ranked the first. Features are day-before demand, temperature and radiation, public holiday and school term flags, and one-hot day, hour and month encodings. Excluded same-day weather and the AEMO forecast columns so that the model uses only information available a day ahead. Accuracy degrades in extreme heat (hottest 5%: MAE 710 MW) and at high demand (520 MW), with a 66 MW over-prediction bias relfecting the fall in average demand between the training years and test 2019.
 "
-baseline_no_radiation_day_before_linear_regression,535.8325131518159,379.97417415544606,4.736390295229697,0.816198728665926,"
-Linear Regression on the 48 shared features achieves MAE 380 MW on the 2019 test year, ahead of the naive same-time-yesterday (466 MW) and Climatology Profile (605 MW) baselines, and was selected on the 2018 validation year where it also ranked the first. Features are day-before demand, temperature and radiation, public holiday and school term flags, and one-hot day, hour and month encodings. Excluded same-day weather and the AEMO forecast columns so that the model uses only information available a day ahead. Accuracy degrades in extreme heat (hottest 5%: MAE 710 MW) and at high demand (520 MW), with a 66 MW over-prediction bias relfecting the fall in average demand between the training years and test 2019.
-"
+prophet,469.383322393858,345.77700627861697,4.289859820478026,0.8433099124062081,
+random_forest_no_radiation_day_before,502.0500425921539,326.32226680640946,3.962717213048967,0.8386442659850973,
+random_forest,493.6967783209122,322.4514120820744,3.927903268154292,0.8439689707979023,
+aemo_forecast_closest,64.29241067137875,47.71161130136987,0.5956884401924603,0.9973538783442838,
+aemo_forecast_12hr_prior,212.91369389390076,155.9452602739726,1.9218666283899966,0.9709799887677941,
+aemo_forecast_dayprior,222.4607535563383,161.83098858447488,1.9883980439297608,0.9683191230406595,
+lightgbm_no_radiation_day_before,472.4577777822547,311.01191172280147,3.78057823779634,0.8571052106319832,
